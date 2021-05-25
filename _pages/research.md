@@ -23,15 +23,15 @@ author_profile: true
 ## **Work in progress**
 
 
-**The political consequences of nuclear energy policies** with [Heike Klüver](http://www.heike-kluever.com/)
+**The political consequences of nuclear energy policies** with [Heike Klüver](http://www.heike-kluever.com/)  
 *Data collection phase*
 
 
 
-**Campaign finance laws and representation: Evidence from Citizens United** with [Heike Klüver](http://www.heike-kluever.com/)
+**Campaign finance laws and representation: Evidence from Citizens United** with [Heike Klüver](http://www.heike-kluever.com/)  
 *Data collection phase*
 
 
-**Environmental protests and political behaviour** 
+**Environmental protests and political behaviour**   
 *Data collection phase*
 
