@@ -5,9 +5,9 @@ Name Name:
   uri         : "http://valentimantonio.com"
   email       : "antonio.valentim@hu-berlin.de"
   bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
+  avatar      : "avatar.jpg"
   twitter     : "AntValentim"
-  google_plus : "Name"
+  # google_plus : "Name"
 
 #Name2 Name2:
 #  name        : "Name2 Name2"
