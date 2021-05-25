@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-**Working Papers**
+<span style="font-size:4em;">**Working Papers**</span>
 
 **Imperfect information and party responsiveness: Evidence from the Green Party in England**
   * **Abstract**: Do parties respond to voters’ preferences? Scholars of party politics often argue that parties are rational actors who adjust their positions and allocate their resources in order to maximise the likelihood of being elected.  In this paper, I test this assumption by studying how changes in voters’ preferences impact parties’ strategies.  Specifically, I study the effect of floods on the allocation of candidates by the English Greens.  I make the argument that these events provide Green parties with a unique electoral opportunity:  they put the issue of the environment on the agenda and create an incentive for protest vote.  I use a difference-in-differences design and show that the experience of a flood does  have  an  impact  on  voters’  preferences,  but  does  not  have  an  effect  on the party’s allocation of candidates.  I find support for a mechanism by which the  party  does  not  have  the  resources  for  or  does  not  prioritise  information on voters’ preferences.  These results are important to understand under what circumstances political elites respond to voters.
@@ -23,16 +23,19 @@ author_profile: true
 
 **The political consequences of nuclear energy policies** with [Heike Klüver](http://www.heike-kluever.com/)
 *Data collection phase*
+
 **Campaign finance laws and representation: Evidence from Citizens United** with [Heike Klüver](http://www.heike-kluever.com/)
 *Data collection phase*
+
 **Environmental protests and political behaviour** 
 *Data collection phase*
-#{% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
+%#{% if author.googlescholar %}
+%#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 #{% endif %}
 
 #{% include base_path %}
 
 #{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-# {% endfor %}
+%#  {% include archive-single.html %}
+%# {% endfor %}
