@@ -191,9 +191,9 @@ collections:
 
 # Defaults
 defaults:
+defaults:
   # _posts
- - scope:
-      path: ""
+  - scope:
       type: posts
     values:
       layout: single
