@@ -14,5 +14,5 @@ I am interested in political behaviour and the relationship between political el
 
 On this website, you can find more information on my [research](http://www.valentimantonio.com/research/), my [teaching experience](http://www.valentimantonio.com/teaching/), and you can download my [CV](http://www.valentimantonio.com/cv/).
 
-If you are interested in knowing more about any of these projects or think we have similar interests, please feel free to contact me at [antonio.valentim@hu-berlin.de](antonio.valentim@hu-berlin.de).
+If you are interested in knowing more about any of these projects or think we have similar interests, please feel free to contact me at [antonio.valentim@hu-berlin.de](mailto:antonio.valentim@hu-berlin.de).
 
