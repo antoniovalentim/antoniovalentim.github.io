@@ -89,7 +89,7 @@ author:
   googlescholar    : 
   email            : "antonio.valentim@hu-berlin.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "http://www.valentimantonio.com"
+  uri              : # "http://www.valentimantonio.com"
   bitbucket        :
   codepen          :
   dribbble         :
