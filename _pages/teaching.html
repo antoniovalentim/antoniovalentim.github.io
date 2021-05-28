@@ -7,11 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-  * **The Politics of the Environment** 
-     * BA course, Humboldt University, Spring 2021
-     * Syllabus
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
-  * **Statistics I: Descriptives, Inference, and Regression**
-     * Teaching Assistant to [Mark Kayser] (http://mark-kayser.com/)
-     * MA level, Hertie School, Winter 2020
 
