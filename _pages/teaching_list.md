@@ -11,6 +11,7 @@ redirect_from:
 {% include base_path %}
 
 * **The Politics of the Environment** 
+  * Lecturer
   * BA course, Humboldt University, Spring 2021
   * [Syllabus](https://www.dropbox.com/s/b55hfeygwowl0vc/PolEnv_Syllabus_Valentim2021.pdf?dl=0)
 
