@@ -15,5 +15,5 @@ redirect_from:
   * Syllabus
 
 * **Statistics I: Descriptives, Inference, and Regression** 
-  * Teaching Assistant to [Mark Kayser] (http://mark-kayser.com/)
+  * Teaching Assistant to [Prof. Mark Kayser](http://mark-kayser.com/)
   * MA level, Hertie School, Winter 2020
