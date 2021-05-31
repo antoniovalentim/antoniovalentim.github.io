@@ -16,7 +16,7 @@ I am interested in political behaviour with a focus in the relationship between 
 I study these questions in established democracies, applying causal inference methods and using observational and geospatial data. I have a backgorund in social psychology that informs how I think about political phenomena.
 
 
-On this website, you can find more information on my [research](http://antoniovalentim.github.io/research/), my [teaching experience](http://antoniovalentim.github.io/teaching/), and you can download my [CV](/files/AValentim_CV_March21.pdf).
+On this website, you can find more information on my [research](http://antoniovalentim.github.io/research/), my [teaching experience](http://antoniovalentim.github.io/teaching/), and you can download my [CV](/files/AValentim_CV_website.pdf).
 
 If you are interested in knowing more about any of these projects or think we have similar interests, please feel free to contact me at [antonio.valentim@hu-berlin.de](mailto:antonio.valentim@hu-berlin.de).
 
