@@ -5,8 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## **Working Papers**
-<br>
+## **Working Papers**  
   
 **Imperfect information and party responsiveness: Evidence from the Green Party in England**
   * **Abstract**: Do parties respond to voters’ preferences? Scholars of party politics often argue that parties are rational actors who adjust their positions and allocate their resources in order to maximise the likelihood of being elected.  In this paper, I test this assumption by studying how changes in voters’ preferences impact parties’ strategies.  Specifically, I study the effect of floods on the allocation of candidates by the English Greens.  I make the argument that these events provide Green parties with a unique electoral opportunity:  they put the issue of the environment on the agenda and create an incentive for protest vote.  I use a difference-in-differences design and show that the experience of a flood does  have  an  impact  on  voters’  preferences,  but  does  not  have  an  effect  on the party’s allocation of candidates. I investigate the reasons underlying these results using data on campaign expenditures and interviews with party officials.  
@@ -28,8 +27,7 @@ author_profile: true
   <br>
   <br>
     
-## **Work in progress**
-  <br>
+## **Work in progress**  
     
 **Environmental protests and political behaviour**   
 *Data collection phase*  
