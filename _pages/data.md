@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-In this page you can find original datasets I have collected or am collecting for several projects. I intent to make these publicly available once the papers I used them for are published.  
+In this page you can find original datasets I have collected or am collecting for several projects. I intent to make these publicly available once the papers I used them for are published.
         <br>
           
 **Electoral boundaries in English local elections**    
