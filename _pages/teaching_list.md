@@ -14,8 +14,8 @@ redirect_from:
   * Lecturer
   * BA course, Humboldt University, Spring 2021
   * [Syllabus](https://www.dropbox.com/s/b55hfeygwowl0vc/PolEnv_Syllabus_Valentim2021.pdf?dl=0)
-
-
+  
+  
 
 * **Statistics I: Descriptives, Inference, and Regression** 
   * Teaching Assistant to [Prof. Mark Kayser](http://mark-kayser.com/)
