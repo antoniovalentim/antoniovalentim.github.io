@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-In this page you can find data I have collected for several projects. I intent to make these publicly available once the papers I used them for are published.  
+In this page you can find original datasets I have collected or am collecting for several projects. I intent to make these publicly available once the papers I used them for are published.  
   
 **Electoral boundaries in English local elections**    
     A collection of yearly electoral wards for local elections in England, with election results, as well as population and economic data, 2010-2019.  
