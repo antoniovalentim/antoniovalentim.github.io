@@ -1,27 +1,25 @@
 # main links links
+
+# main links links
 main:
   - title: "Research"
     url: /research/
 
-#  - title: "Talks"
- #   url: /talks/    
-
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "Data"
+    url: /data/
+
+  - title: "Other"
+    url: /other/
     
-#  - title: "Portfolio"
- #   url: /portfolio/
-        
- # - title: "Blog Posts"
- #   url: /year-archive/
- 
+  - title: "CV"
+    url: /cv/
+
+
    - title: "Data"
     url: /data/
     
   - title: "CV"
     url: /cv/
-    
-    - title: "Other"
-    url: /other/
-  #- title: "Guide"
- #   url: /markdown/
