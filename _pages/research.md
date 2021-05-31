@@ -27,21 +27,16 @@ author_profile: true
   * **Abstract**: Do radical right parties (RRPs) delay government formation? Recent research has studied the effect of parliamentary entry of RRPs on voter attitudes, polarization and party competition. Building on the literature on coalition formation, we argue that it is not sufficient to merely enter a parliament, but that RRPs can only delay government formation when they have sufficient bargaining power. Using a difference-in-differences design complemented with an event history analysis, we show that the mere entry of a RRP into parliament has no effect on government formation, but that RRPs can significantly delay the formation of a cabinet when they have sufficient bargaining power. Our findings are relevant for understanding the relationship between party competition, polarization and government formation.  
   <br>
   <br>
-  <br>
     
 ## **Work in progress**
-  <br>
   <br>
     
 **Environmental protests and political behaviour**   
 *Data collection phase*  
   <br>
-  <br>
     
 **The political consequences of nuclear energy policies** with [Heike Klüver](http://www.heike-kluever.com/)  
-*Data collection phase*  
-  
-  <br>
+*Data collection phase*   
   <br>
     
 **Campaign finance laws and representation: Evidence from Citizens United** with [Heike Klüver](http://www.heike-kluever.com/)  
