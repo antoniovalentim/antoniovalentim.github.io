@@ -13,7 +13,7 @@ author_profile: true
   <br>
     
 **The political effects of female representation: Evidence from a regression-discontinuity design**.
-  * **Abstract**: Does the election of female politicians foster political participation among women? While it is often argued that representation can promote the participation of minorities and of women in particular, research on this has provided mixed results. In this paper, I contribute to this puzzle by using a regression-discontinuity design with close elections to test whether electing a female MP increases women’s participation in local politics in the UK. I use panel surveys to explore the mechanisms driving my results. These results are particularly important for a better understanding of female and minority participation and thus have important implications.  
+  * **Abstract**: Does the election of female politicians foster political participation among women? While it is often argued that representation can promote the participation of minorities and of women in particular, research on this has provided mixed results. In this paper, I contribute to this puzzle by using a regression-discontinuity design with close elections to test whether electing a female MP increases women’s participation in local politics in the UK. I collect a novel dataset of over 300000 local candidates and use panel surveys to test this relationship. I find that the election of a female MP has no effect on the number of female local candidates, but has an effect on women's political attitudes. These results are particularly important for a better understanding of female and minority participation, and are important to inform policy on diminishing gender inequalities in politics.  
   <br>
   <br>
     
