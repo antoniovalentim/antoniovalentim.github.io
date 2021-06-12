@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "António Valentim"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "António Valentim"
-description              : &description "personal description"
+description              : &description "Political Science"
 url                      : https://antoniovalentim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "antoniovalentim/antoniovalentim.github.io"
