@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-Welcome to my website!  
+**About Me**  
   
 I am a PhD candidate in political science at the [DYNAMICS graduate school](https://www.sowi.hu-berlin.de/en/dynamics/about), which is jointly organised by Humboldt University and the Hertie school.
 
