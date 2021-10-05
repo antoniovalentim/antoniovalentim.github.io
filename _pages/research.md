@@ -33,7 +33,7 @@ author_profile: true
 **Environmental protests and political behaviour**   
   <br>
     
-**The political consequences of nuclear energy policies** with [Heike Klüver](http://www.heike-kluever.com/)  
+**The political consequences of nuclear energy policies** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/)   
   <br>
     
 **Campaign finance laws and representation: Evidence from Citizens United** with [Heike Klüver](http://www.heike-kluever.com/)  
