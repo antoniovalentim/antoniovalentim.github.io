@@ -26,14 +26,21 @@ Does the election of female politicians foster political participation among wom
 
     
 **The Electoral Consequences of New Political Actors: Evidence from the German Greens** with [Tom Arend](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/arend) and [Fabio Ellger](https://www.fabioellger.com/).
-  * **Abstract**: What are the consequences of new political actors? Recent research suggests that the emergence of radical right parties (RRPs) can defy long established democratic norms, with consequences for the behavior of both voters and political elites. We study whether that is part of a broader pattern by which new actors challenge the political establishment, provoke electoral backlash and increase polarization. Using a difference-in-differences design, we leverage on the differential timing of parliamentary success of the Green Party of Germany to study this question. Our findings become particularly relevant in a time of polarization and fragmentation across Western democracies.  
+  <details>
+  <summary> Abstract </summary>
+What are the consequences of new political actors? Recent research suggests that the emergence of radical right parties (RRPs) can defy long established democratic norms, with consequences for the behavior of both voters and political elites. We study whether that is part of a broader pattern by which new actors challenge the political establishment, provoke electoral backlash and increase polarization. Using a difference-in-differences design, we leverage on the differential timing of parliamentary success of the Green Party of Germany to study this question. Our findings become particularly relevant in a time of polarization and fragmentation across Western democracies. 
+</details>
   <br>
   <br>
+
     
 **Government formation duration and radical right parties** with [Heike Klüver](http://www.heike-kluever.com/) and [Jae-Jae Spoon](http://www.jaejaespoon.com/).
-  * **Abstract**: Do radical right parties (RRPs) delay government formation? Recent research has studied the effect of parliamentary entry of RRPs on voter attitudes, polarization and party competition. Building on the literature on coalition formation, we argue that it is not sufficient to merely enter a parliament, but that RRPs can only delay government formation when they have sufficient bargaining power. Using a difference-in-differences design complemented with an event history analysis, we show that the mere entry of a RRP into parliament has no effect on government formation, but that RRPs can significantly delay the formation of a cabinet when they have sufficient bargaining power. Our findings are relevant for understanding the relationship between party competition, polarization and government formation.  
+   <details>
+  <summary> Abstract </summary>
+Do radical right parties (RRPs) delay government formation? Recent research has studied the effect of parliamentary entry of RRPs on voter attitudes, polarization and party competition. Building on the literature on coalition formation, we argue that it is not sufficient to merely enter a parliament, but that RRPs can only delay government formation when they have sufficient bargaining power. Using a difference-in-differences design complemented with an event history analysis, we show that the mere entry of a RRP into parliament has no effect on government formation, but that RRPs can significantly delay the formation of a cabinet when they have sufficient bargaining power. Our findings are relevant for understanding the relationship between party competition, polarization and government formation.  
+</details>
   <br>
-  <br>
+  <br> 
     
 ## **Work in progress**  
     
