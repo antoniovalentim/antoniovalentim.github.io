@@ -17,9 +17,13 @@ Do parties respond to voters’ preferences? Scholars of party politics often ar
   <br>
     
 **The political effects of female representation: Evidence from a regression-discontinuity design**.
-  * **Abstract**: Does the election of female politicians foster political participation among women? While it is often argued that representation can promote the participation of minorities and of women in particular, research on this has provided mixed results. In this paper, I contribute to this puzzle by using a regression-discontinuity design with close elections to test whether electing a female MP increases women’s participation in local politics in the UK. I collect a novel dataset of over 300000 local candidates and use panel surveys to test this relationship. I find that the election of a female MP has no effect on the number of female local candidates, but has an effect on women's political attitudes. These results are important for a better understanding of female and minority participation, and can inform policy on diminishing gender inequalities in politics.  
+  <details>
+  <summary> Abstract </summary>
+Does the election of female politicians foster political participation among women? While it is often argued that representation can promote the participation of minorities and of women in particular, research on this has provided mixed results. In this paper, I contribute to this puzzle by using a regression-discontinuity design with close elections to test whether electing a female MP increases women’s participation in local politics in the UK. I collect a novel dataset of over 300000 local candidates and use panel surveys to test this relationship. I find that the election of a female MP has no effect on the number of female local candidates, but has an effect on women's political attitudes. These results are important for a better understanding of female and minority participation, and can inform policy on diminishing gender inequalities in politics.  
+</details>
   <br>
   <br>
+
     
 **The Electoral Consequences of New Political Actors: Evidence from the German Greens** with [Tom Arend](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/arend) and [Fabio Ellger](https://www.fabioellger.com/).
   * **Abstract**: What are the consequences of new political actors? Recent research suggests that the emergence of radical right parties (RRPs) can defy long established democratic norms, with consequences for the behavior of both voters and political elites. We study whether that is part of a broader pattern by which new actors challenge the political establishment, provoke electoral backlash and increase polarization. Using a difference-in-differences design, we leverage on the differential timing of parliamentary success of the Green Party of Germany to study this question. Our findings become particularly relevant in a time of polarization and fragmentation across Western democracies.  
