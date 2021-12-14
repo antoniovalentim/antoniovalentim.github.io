@@ -7,12 +7,13 @@ author_profile: true
 
 ## **Working Papers**  
   
-[Imperfect information and party responsiveness: Evidence from the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045).   <summary>**Abstract**</summary>
+[Imperfect information and party responsiveness: Evidence from the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045). *Under Review*  .
+  <summary>**Abstract**</summary>
 Do parties respond to voters’ preferences? Scholars of party politics often argue that parties are rational actors who adjust their positions and allocate their resources in order to maximise the likelihood of being elected.  In this paper, I test this assumption by studying how changes in voters’ preferences impact parties’ strategies.  Specifically, I study the effect of floods on the allocation of candidates by the English Greens.  I make the argument that these events provide Green parties with a unique electoral opportunity:  they put the issue of the environment on the agenda and create an incentive for protest vote.  I use a difference-in-differences design and show that the experience of a flood does  have  an  impact  on  voters’  preferences,  but  does  not  have  an  effect  on the party’s allocation of candidates. I investigate the reasons underlying these results using data on campaign expenditures and interviews with party officials.  
 </details>* 
   <br>
   <br>   
-*Under Review*  
+
     
 **The political effects of female representation: Evidence from a regression-discontinuity design**.
   * **Abstract**: Does the election of female politicians foster political participation among women? While it is often argued that representation can promote the participation of minorities and of women in particular, research on this has provided mixed results. In this paper, I contribute to this puzzle by using a regression-discontinuity design with close elections to test whether electing a female MP increases women’s participation in local politics in the UK. I collect a novel dataset of over 300000 local candidates and use panel surveys to test this relationship. I find that the election of a female MP has no effect on the number of female local candidates, but has an effect on women's political attitudes. These results are important for a better understanding of female and minority participation, and can inform policy on diminishing gender inequalities in politics.  
