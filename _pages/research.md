@@ -5,8 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## **Working Papers**  
-
+## **Working Papers**
 1. [Imperfect information and party responsiveness: Evidence from the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045).    
 *Under Review*
 <details>
