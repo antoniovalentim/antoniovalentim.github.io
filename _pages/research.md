@@ -19,7 +19,7 @@ permalink: /research/
   <br>
    
 
-**3. The Electoral Consequences of New Political Actors: Evidence from the German Greens** with [Tom Arend](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/arend) and [Fabio Ellger](https://www.fabioellger.com/).  
+**3. The Electoral Consequences of New Political Actors: Evidence from the German Greens** with [Tom Arend](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/arend) and [Fabio Ellger](https://www.fabioellger.com/).<br>
 <details><summary>Abstract</summary> <font size="-1">What are the consequences of new political actors? Recent research suggests that the emergence of radical right parties (RRPs) can defy long established structures of democratic competition, with consequences for the behavior of voters and political elites. We study whether that is part of a broader pattern by which new actors challenge the political establishment and provoke electoral backlash. With radical policy positions and new forms of organizing, Green parties were one of the first successful disruptors of post-war European party systems. We argue that Green party success threatens established norms of politics, leading to a backlash from conservative voters. We identify this effect with a difference-in-differences design in Germany, and find that Greens success lead to a conservative backlash. We also find evidence of similar patterns in multiple other countries and of individual-level dynamics that suppport our argument. While much research emphasizes the disruptive role of RRPs, our results point towards a more general pattern when new political acotrs emerge.</font> </details> 
   &nbsp;
 
