@@ -7,7 +7,7 @@ permalink: /research/
 ## **Working Papers**
   <br>
 **1. [Imperfect information and party responsiveness: Evidence from the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.   
-*Under Review*  
+*Under Review*
  <font size="-1">
   **Abstract**: Do parties respond to voters’ preferences? Scholars of party politics often argue that parties are rational actors who adjust their positions and allocate their resources in order to maximise the likelihood of being elected.  In this paper, I test this assumption by studying how changes in voters’ preferences impact parties’ strategies.  Specifically, I study the effect of floods on the allocation of candidates by the English Greens.  I make the argument that these events provide Green parties with a unique electoral opportunity:  they put the issue of the environment on the agenda and create an incentive for protest vote.  I use a difference-in-differences design and show that the experience of a flood does  have  an  impact  on  voters’  preferences,  but  does  not  have  an  effect  on the party’s allocation of candidates. I investigate the reasons underlying these results using data on campaign expenditures and interviews with party officials.  </font>
   <br>
@@ -27,9 +27,7 @@ permalink: /research/
   &nbsp;
 
 **4. Government formation duration and radical right parties** with [Heike Klüver](http://www.heike-kluever.com/) and [Jae-Jae Spoon](http://www.jaejaespoon.com/).
-<details>
-<summary>Abstract</summary> Do radical right parties (RRPs) delay government formation? Recent research has studied the effect of parliamentary entry of RRPs on voter attitudes, polarization and party competition. Building on the literature on coalition formation, we argue that it is not sufficient to merely enter a parliament, but that RRPs can only delay government formation when they have sufficient bargaining power. Using a difference-in-differences design complemented with an event history analysis, we show that the mere entry of a RRP into parliament has no effect on government formation, but that RRPs can significantly delay the formation of a cabinet when they have sufficient bargaining power. Our findings are relevant for understanding the relationship between party competition, polarization and government formation. </details>
-  &nbsp;
+<details>[Abstract](#Buttons){:  Do radical right parties (RRPs) delay government formation? Recent research has studied the effect of parliamentary entry of RRPs on voter attitudes, polarization and party competition. Building on the literature on coalition formation, we argue that it is not sufficient to merely enter a parliament, but that RRPs can only delay government formation when they have sufficient bargaining power. Using a difference-in-differences design complemented with an event history analysis, we show that the mere entry of a RRP into parliament has no effect on government formation, but that RRPs can significantly delay the formation of a cabinet when they have sufficient bargaining power. Our findings are relevant for understanding the relationship between party competition, polarization and government formation}
     
 ## **Work in progress**  
     
