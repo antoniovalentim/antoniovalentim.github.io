@@ -30,7 +30,7 @@ permalink: /research/
   <br>
   <br>
     
-## **Selected Work in progress**  
+## **Selected Work in Progress**  
     
 **1. Environmental protests and political behaviour**   
   <br>
