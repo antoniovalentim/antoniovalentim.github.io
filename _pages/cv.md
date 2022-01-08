@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 You can download a PDF copy of my CV [here](/files/AValentim_CV_website.pdf).
 
 
