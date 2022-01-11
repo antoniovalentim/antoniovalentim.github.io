@@ -20,5 +20,5 @@ In this page you can find original datasets I have collected or am collecting fo
       <br>
       
 **Environmental protests in two countries**  
-    A collection of environmental protests, their location, number of participants and other characteristics, across Europe, 2018-2021.
+    A collection of environmental protests, their location, number of participants and other characteristics. Across Europe, 2018-2021.
   
