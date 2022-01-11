@@ -7,7 +7,10 @@ redirect_from:
   - /resume
 ---
 
-You can download a PDF copy of my CV [here](https://www.dropbox.com/s/d3sjakppaujg8sl/AValentim_CV.pdf?dl=0).
+
+{% include base_path %}
+
+You can download a PDF copy of my CV [here](files/AValentim_CV.pdf)
 
 
 
