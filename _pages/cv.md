@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 You can download a PDF copy of my CV [here](https://www.dropbox.com/s/lxs05hhv03lmids/AValentim_CV.pdf?dl=0).
+
 {% include base_path %}
 
 
