@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download a PDF copy of my CV [here](http://antoniovalentim.github.io/files/AValentim_CV.pdf).
+You can download a PDF copy of my CV [here](/files/AValentim_CV.pdf).
 
 
