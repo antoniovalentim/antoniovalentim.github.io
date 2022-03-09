@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-**About Me**  
+# About Me  
   
 I am a PhD candidate in political science at the [DYNAMICS graduate school](https://www.sowi.hu-berlin.de/en/dynamics/about), which is jointly organised by [Humboldt University Berlin](https://www.hu-berlin.de/en) and the [Hertie school](https://www.hertie-school.org/en/). In 2022, I will be a visiting scholar at [UCSD](https://ucsd.edu/).
 
