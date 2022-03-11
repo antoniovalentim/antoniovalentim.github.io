@@ -2,6 +2,18 @@
 layout: archive
 title: "Research"
 permalink: /research/
+
+<!--
+    function toggle_visibility(id) {
+       event.preventDefault();
+       var e = document.getElementById(id);
+       if(e.style.display == 'none')
+          e.style.display = 'block';
+       else
+          e.style.display = 'none';
+    }
+
+//-->
 ---
 
 ## **Working Papers**
