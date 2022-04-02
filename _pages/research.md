@@ -26,9 +26,7 @@ Does the election of female politicians foster political participation among wom
   <br>
    
 **3. Turning Green: The behavioural consequences of environmental protests**.  
-*Draft available upon request*<font size="-1"> 
- <details>
-<summary>Abstract</summary>
+*Draft available upon request*<font size="-1"> <details> <summary>Abstract</summary>
 When do political protests influence citizens’ behaviour? Political protests are a key mean by which citizens aim to influence political outcomes. Specifically, they often aim at raising voters’ awareness on specific issues, but when is this successful? In this paper, I build on social-psychological work to argue that a key characteristic of effective protests is their capability to repeatedly expose voters to their message. This paper tests this argument by studying the effect of Fridays for Future (FFF) protests on voting for Green Parties. Using a novel dataset on FFF protests in Germany, and a difference-in-differences design, I find that exposure to environmental protests increases the vote share of the Greens and that repeated exposure to protests increases this effect. Additional analyses using panel survey data explore the individual-level mechanisms at play, and a comparative analysis with multiple Western European democracies tests its generalizability. Overall, these results are important to understand when and how protests are influential, as well as to understand the effects of environmental protests specifically.  </font>
 </details> <br>
   <br>
