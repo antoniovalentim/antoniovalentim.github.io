@@ -9,10 +9,10 @@ permalink: /research/
   <br>
 **1. [Imperfect information and party responsiveness: Evidence from the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.
 *Under Review*<font size="-1">  <br>
-  <strong>Abstract:</strong> Do parties respond to voters’ preferences? Scholars of party politics often argue that parties are rational actors who adjust their positions and allocate their resources in order to maximise the likelihood of being elected.  In this paper, I test this assumption by studying how changes in voters’ preferences impact parties’ strategies.  Specifically, I study the effect of floods on the allocation of candidates by the English Greens.  I make the argument that these events provide Green parties with a unique electoral opportunity:  they put the issue of the environment on the agenda and create an incentive for protest vote.  I use a difference-in-differences design and show that the experience of a flood does  have  an  impact  on  voters’  preferences,  but  does  not  have  an  effect  on the party’s allocation of candidates. I investigate the reasons underlying these results using data on campaign expenditures and interviews with party officials.
-  </div>
-&nbsp;
-   
+ <details>
+<summary>Read more</summary>
+<strong>Abstract:</strong> Do parties respond to voters’ preferences? Scholars of party politics often argue that parties are rational actors who adjust their positions and allocate their resources in order to maximise the likelihood of being elected.  In this paper, I test this assumption by studying how changes in voters’ preferences impact parties’ strategies.  Specifically, I study the effect of floods on the allocation of candidates by the English Greens.  I make the argument that these events provide Green parties with a unique electoral opportunity:  they put the issue of the environment on the agenda and create an incentive for protest vote.  I use a difference-in-differences design and show that the experience of a flood does  have  an  impact  on  voters’  preferences,  but  does  not  have  an  effect  on the party’s allocation of candidates. I investigate the reasons underlying these results using data on campaign expenditures and interviews with party officials.
+</details> <br>
 
 **2. [The political effects of female representation: Evidence from a regression-discontinuity design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3992109)**.  
 *Under Review*<font size="-1">  <br>
