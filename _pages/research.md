@@ -25,14 +25,9 @@ Does the election of female politicians foster political participation among wom
 </details> <br>
   <br>
    
-**3. Turning Green: The behavioural consequences of environmental protests**.  
-*Draft available upon request*<font size="-1"> <details> <summary>Abstract</summary>
-When do political protests influence citizens’ behaviour? Political protests are a key mean by which citizens aim to influence political outcomes. Specifically, they often aim at raising voters’ awareness on specific issues, but when is this successful? In this paper, I build on social-psychological work to argue that a key characteristic of effective protests is their capability to repeatedly expose voters to their message. This paper tests this argument by studying the effect of Fridays for Future (FFF) protests on voting for Green Parties. Using a novel dataset on FFF protests in Germany, and a difference-in-differences design, I find that exposure to environmental protests increases the vote share of the Greens and that repeated exposure to protests increases this effect. Additional analyses using panel survey data explore the individual-level mechanisms at play, and a comparative analysis with multiple Western European democracies tests its generalizability. Overall, these results are important to understand when and how protests are influential, as well as to understand the effects of environmental protests specifically.  </font>
-</details> <br>
-  <br>
+
   
-  
-**4. The Electoral Consequences of New Political Actors: Evidence from the German Greens** with [Tom Arend](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/arend) and [Fabio Ellger](https://www.fabioellger.com/).  
+**3. The Electoral Consequences of New Political Actors: Evidence from the German Greens** with [Tom Arend](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/arend) and [Fabio Ellger](https://www.fabioellger.com/).  
 *Draft available upon request*<font size="-1">
  <details>
 <summary>Abstract</summary>
@@ -41,7 +36,7 @@ When do political protests influence citizens’ behaviour? Political protests a
   <br>
   
   
-**5. Government formation duration and radical right parties** with [Heike Klüver](http://www.heike-kluever.com/) and [Jae-Jae Spoon](http://www.jaejaespoon.com/).<font size="-1">    
+**4. Government formation duration and radical right parties** with [Heike Klüver](http://www.heike-kluever.com/) and [Jae-Jae Spoon](http://www.jaejaespoon.com/).<font size="-1">    
 *Draft available upon request*<font size="-1">
  <details>
 <summary>Abstract</summary>
@@ -50,7 +45,7 @@ When do political protests influence citizens’ behaviour? Political protests a
   <br>
 
      
-**6. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).<font size="-1">    
+**5. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).<font size="-1">    
 *Draft available upon request*<font size="-1">
  <details>
 <summary>Abstract</summary>
@@ -61,10 +56,11 @@ When do political protests influence citizens’ behaviour? Political protests a
      
     
 ## **Selected Work in Progress**  
-  
-    
-**1. The political consequences of nuclear energy policies** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/)   
+  **1. Environmental Protests and Political Behaviour**  
   <br>
     
-**2. Campaign finance laws and representation: Evidence from Citizens United** with [Heike Klüver](http://www.heike-kluever.com/)  
+**2. The political consequences of nuclear energy policies** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/)   
+  <br>
+    
+**3. Campaign finance laws and representation: Evidence from Citizens United** with [Heike Klüver](http://www.heike-kluever.com/)  
   
