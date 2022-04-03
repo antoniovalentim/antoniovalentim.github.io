@@ -7,7 +7,7 @@ permalink: /research/
 
 ## **Working Papers**
   <br>
-**1. [Imperfect information and party responsiveness: Evidence from the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.
+**1. [Imperfect information and party responsiveness: Evidence from the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.  
 *Under Review*<font size="-1">  <br>
   <strong>Abstract:</strong> Do parties respond to voters’ preferences? Scholars of party politics often argue that parties are rational actors who adjust their positions and allocate their resources in order to maximise the likelihood of being elected.  In this paper, I test this assumption by studying how changes in voters’ preferences impact parties’ strategies.  Specifically, I study the effect of floods on the allocation of candidates by the English Greens.  I make the argument that these events provide Green parties with a unique electoral opportunity:  they put the issue of the environment on the agenda and create an incentive for protest vote.  I use a difference-in-differences design and show that the experience of a flood does  have  an  impact  on  voters’  preferences,  but  does  not  have  an  effect  on the party’s allocation of candidates. I investigate the reasons underlying these results using data on campaign expenditures and interviews with party officials.
   <br>
@@ -25,19 +25,19 @@ permalink: /research/
   <br>
   <br>
   
-**4. Government formation duration and radical right parties** with [Heike Klüver](http://www.heike-kluever.com/) and [Jae-Jae Spoon](http://www.jaejaespoon.com/).
+**4. Government formation duration and radical right parties** with [Heike Klüver](http://www.heike-kluever.com/) and [Jae-Jae Spoon](http://www.jaejaespoon.com/).  
 *Draft available upon request*<font size="-1">  <br>
   <strong>Abstract:</strong> Do radical right parties (RRPs) delay government formation? Recent research has studied the effect of parliamentary entry of RRPs on voter attitudes, polarization and party competition. Building on the literature on coalition formation, we argue that it is not sufficient to merely enter a parliament, but that RRPs can only delay government formation when they have sufficient bargaining power. Using a difference-in-differences design complemented with an event history analysis, we show that the mere entry of a RRP into parliament has no effect on government formation, but that RRPs can significantly delay the formation of a cabinet when they have sufficient bargaining power. Our findings are relevant for understanding the relationship between party competition, polarization and government formation.</font> 
   <br>
   <br>
   
-**5. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).
+**5. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).  
   *Draft available upon request*<font size="-1">  <br> 
  <strong>Abstract:</strong> Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of ethnic minorities. While most recent research on integration is focused on the consequences of intergroup contact, less is known about how voters react to these policies. In this study, we address this gap by studying the effect of policies targeting ethnic minorities on outgroup hostility. We argue these policies are means by which political actors define who is entitled to be a member of a polity. We test this argument by studying the effect of face veil ban in the Swiss canton of Ticino on anti-migration voting and hate crimes and find the policy increased outgroup hostility. Using panel data at the individual level, we find some support for our argument. This study has implications for how policies impact the attitudes and behaviours of voters towards minorities as well as for the cohesiveness of multicultural societies.</font> 
 <br>
   <br>
 
-  ## **Selected Work in Progress**  
+## **Selected Work in Progress**
     
 **1. Environmental protests and political behaviour**   
   <br>
