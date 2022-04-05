@@ -19,7 +19,7 @@ I am interested in political behaviour, with a focus on the politics of the envi
 I study these questions in established democracies, applying causal inference methods on observational and geospatial data. Prior to starting my PhD, I obtained a BA (University of Coimbra) and an MSc (London School of Economics) in (social) psychology that inform how I think about political phenomena.
 
 
-On this website, you can find more information on my [research](http://antoniovalentim.github.io/research/), my [teaching experience](http://antoniovalentim.github.io/teaching/), on [datasets](http://antoniovalentim.github.io/data/) I collected, and you can download my [CV](/files/AValentim_CV_website.pdf).
+On this website, you can find more information on my [research](http://antoniovalentim.github.io/research/), my [teaching experience](http://antoniovalentim.github.io/teaching/), on [datasets](http://antoniovalentim.github.io/data/) I collected, and you can download my [CV](/files/AValentim_CV.pdf).
 
 If you are interested in knowing more about any of these projects or think we have similar interests, please feel free to contact me at [antonio.valentim@hu-berlin.de](mailto:antonio.valentim@hu-berlin.de).
 
