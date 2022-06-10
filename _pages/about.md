@@ -10,7 +10,7 @@ redirect_from:
 <br>
 **About**  
   
-I am a PhD candidate in political science at the [DYNAMICS graduate school](https://www.sowi.hu-berlin.de/en/dynamics/about), which is jointly organised by [Humboldt University Berlin](https://www.hu-berlin.de/en) and the [Hertie school](https://www.hertie-school.org/en/). In 2022, I will be a visiting scholar at [UCSD](https://ucsd.edu/).
+I am a PhD candidate in political science at the [DYNAMICS graduate school](https://www.sowi.hu-berlin.de/en/dynamics/about), which is jointly organised by [Humboldt University Berlin](https://www.hu-berlin.de/en) and the [Hertie school](https://www.hertie-school.org/en/). In 2022, I was a visiting scholar at [UCSD](https://ucsd.edu/).
 
 I am interested in political behaviour, with a focus on the politics of the environment as well as the relationship between political elites and voters. My dissertation, which is supervised by [Heike Klüver](http://www.heike-kluever.com/), looks at how climate change and its politicisation influence the behaviour of voters and of political elites.
 
