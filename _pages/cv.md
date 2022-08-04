@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF copy of my CV [here](/files/AValentim_CV_0622.pdf)
+You can download a PDF copy of my CV [here](/files/AValentim_CV_0722.pdf)
 
 
 
