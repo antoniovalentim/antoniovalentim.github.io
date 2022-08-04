@@ -48,6 +48,9 @@ close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=39921
     
 **1. The political consequences of nuclear energy policies** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/)   
   <br>
-    
-**2. Campaign finance laws and representation: Evidence from Citizens United** with [Heike Klüver](http://www.heike-kluever.com/)  
+  
+**2. How Parties Respond to Environmental Disasters** with [Tim Wappenhans](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/tim-wappenhans/tim-wappenhans), [Lukas Stoetzer](http://lukas-stoetzer.org/)  and [Heike Klüver](http://www.heike-kluever.com/)   
+  <br>
+  
+**3. Campaign finance laws and representation: Evidence from Citizens United** with [Heike Klüver](http://www.heike-kluever.com/)  
   
