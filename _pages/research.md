@@ -7,9 +7,9 @@ permalink: /research/
 
 ## **Working Papers**
   <br>
-**1. [Imperfect information and party responsiveness: Evidence from the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.  
-*Under Review*<font size="-1">  <br>
-  <strong>Abstract:</strong> Do parties respond to voters’ preferences? Scholars of party politics often argue that parties are rational actors who adjust their positions and allocate their resources in order to maximise the likelihood of being elected.  In this paper, I test this assumption by studying how changes in voters’ preferences impact parties’ strategies.  Specifically, I study the effect of floods on the allocation of candidates by the English Greens.  I make the argument that these events provide Green parties with a unique electoral opportunity:  they put the issue of the environment on the agenda and create an incentive for protest vote.  I use a difference-in-differences design and show that the experience of a flood does  have  an  impact  on  voters’  preferences,  but  does  not  have  an  effect  on the party’s allocation of candidates. I investigate the reasons underlying these results using data on campaign expenditures and interviews with party officials.
+**1. [Imperfect Information and Party Responsiveness: Evidence from Extreme Weather Events and the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.  
+*Revised & Resubmitted*<font size="-1">  <br>
+  <strong>Abstract:</strong> Do parties respond to voters' preferences? Scholars of party politics often argue that parties respond to voters’ preferences to maximise their likelihood of being elected. I test this assumption by studying how changes in voters' preferences impact parties' strategies. Specifically, I study the effect of floods on the English Greens’ candidate allocation. I argue that floods provide an electoral opportunity for Green parties: they put the environment on the agenda and create an incentive for protest vote. Matching geospatial data with voting records, I use a difference-in-differences design to show that floods influence voters' preferences, but have no effect on the Greens' candidate allocation. Using surveys, campaign expenditure data and interviews, I find support for the idea that the party does not have the resources for or does not prioritise information on voters' preferences. These results are important to understand when elites respond to voters and react on the environment.
   <br>
   <br>
    
