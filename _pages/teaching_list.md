@@ -10,6 +10,17 @@ redirect_from:
 
 {% include base_path %}
 
+* **Environmental Politics** 
+  * Lecturer
+  * MA course, Humboldt University, Winter 2022
+  <br>
+  <br>
+  * **Causal Inference in R** 
+  * Lecturer
+  * MA course, Humboldt University, Winter 2022
+  <br>
+  <br>
+
 * **The Politics of the Environment** 
   * Lecturer
   * BA course, Humboldt University, Spring 2021
