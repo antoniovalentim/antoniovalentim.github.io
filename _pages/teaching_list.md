@@ -15,7 +15,7 @@ redirect_from:
   * MA course, Humboldt University, Winter 2022
   <br>
   <br>
-  * **Causal Inference in R** 
+* **Causal Inference in R** 
   * Lecturer
   * MA course, Humboldt University, Winter 2022
   <br>
