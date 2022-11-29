@@ -14,7 +14,7 @@ I am a PhD candidate in political science at the [DYNAMICS graduate school](http
 
 From January 2023, I will be a Postdoctoral Associate at [Yale](https://www.yale.edu/).
 
-I am interested in political behaviour, with a focus on the politics of the environment as well as the relationship between political elites and voters. My dissertation, which is supervised by [Heike Klüver](http://www.heike-kluever.com/), looks at how climate change and its politicisation influence the behaviour of voters and of political elites.
+The core of my research studies when and how voters and political elites act on climate. My dissertation, which is supervised by [Heike Klüver](http://www.heike-kluever.com/), looks at how climate change and its politicisation influence the behaviour of voters and of political elites.
 
 <!-- how both voters and political elites react to climate change and the politicisation of the environment, as well as the consequences of environmental policy. --> 
 
