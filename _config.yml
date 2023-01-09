@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "António Valentim"
   avatar           : "avatar.jpg"
-  bio              : "PhD candidate in Political Science, Humboldt University"
-  location         : "Berlin, Germany"
+  bio              : "Postdoc in Political Science, Yale"
+  location         : "New Haven, CT"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "antonio.valentim@hu-berlin.de"
+  email            : "antonio.valentim@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : # "http://www.valentimantonio.com"
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  mastodon         : "sciences.social/@AntValentim"
 
 
 # Reading Files
