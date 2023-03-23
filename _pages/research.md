@@ -20,37 +20,47 @@ permalink: /research/
   <br>
       
 **3. [The political effects of female representation: Evidence from
-close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3992109)**.  
-*Under Review*<font size="-1">  <br>
+close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3992109)**. 
+  *Draft available upon request*<font size="-1">  <br>
   <strong>Abstract:</strong> Does the election of female politicians foster political participation among women? While it is often argued that representation can promote the participation of minorities and of women in particular, research on this has provided mixed results. In this paper, I contribute to this puzzle by using a regression-discontinuity design with close elections to test whether electing a female MP increases women’s participation in local politics in the UK. I collect a novel dataset of over 300,000 local candidates and use panel surveys to test this relationship. I find that the election of a female MP has no effect on the number of female local candidates, but has an effect on women's political attitudes. These results are important for a better understanding of female and minority participation, and can inform policy on diminishing gender inequalities in politics.</font>
   <br>
   <br>
    
 **4. The Electoral Consequences of New Political Actors: Evidence from the German Greens** with [Tom Arend](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/arend) and [Fabio Ellger](https://www.fabioellger.com/).  
-*Under Review*<font size="-1">  <br>
+  *Draft available upon request*<font size="-1">   <br>
   <strong>Abstract:</strong> What are the consequences of new political actors? Recent research suggests that the emergence of radical right parties (RRPs) can defy long established structures of democratic competition, with consequences for the behavior of voters and political elites. We study whether that is part of a broader pattern by which new actors challenge the political establishment and provoke electoral backlash. With radical policy positions and new forms of organizing, Green parties were one of the first successful disruptors of post-war European party systems. We argue that Green party success threatens established norms of politics, leading to a backlash from conservative voters. We identify this effect with a difference-in-differences design in Germany, and find that Greens success lead to a conservative backlash. We also find evidence of similar patterns in multiple other countries and of individual-level dynamics that suppport our argument. While much research emphasizes the disruptive role of RRPs, our results point towards a more general pattern when new political actors emerge.</font>
   <br>
   <br>
   
-**5. Government formation duration and radical right parties** with [Heike Klüver](http://www.heike-kluever.com/) and [Jae-Jae Spoon](http://www.jaejaespoon.com/).  
-*Draft available upon request*<font size="-1">  <br>
-  <strong>Abstract:</strong> Do radical right parties (RRPs) delay government formation? Recent research has studied the effect of parliamentary entry of RRPs on voter attitudes, polarization and party competition. Building on the literature on coalition formation, we argue that it is not sufficient to merely enter a parliament, but that RRPs can only delay government formation when they have sufficient bargaining power. Using a difference-in-differences design complemented with an event history analysis, we show that the mere entry of a RRP into parliament has no effect on government formation, but that RRPs can significantly delay the formation of a cabinet when they have sufficient bargaining power. Our findings are relevant for understanding the relationship between party competition, polarization and government formation.</font> 
-  <br>
-  <br>
   
-**6. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).  
+**5. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).  
   *Draft available upon request*<font size="-1">  <br> 
  <strong>Abstract:</strong> Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of ethnic minorities. While most recent research on integration is focused on the consequences of intergroup contact, less is known about how voters react to these policies. In this study, we address this gap by studying the effect of policies targeting ethnic minorities on outgroup hostility. We argue these policies are means by which political actors define who is entitled to be a member of a polity. We test this argument by studying the effect of face veil ban in the Swiss canton of Ticino on anti-migration voting and hate crimes and find the policy increased outgroup hostility. Using panel data at the individual level, we find some support for our argument. This study has implications for how policies impact the attitudes and behaviours of voters towards minorities as well as for the cohesiveness of multicultural societies.</font> 
 <br>
+  <br>  
+  
+
+**6. The political consequences of nuclear energy policies** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/).
+  *Draft available upon request*<font size="-1"> 
+ <strong>Abstract:</strong>   How can governments ensure voters' support for unpopular policies? Policymakers often have to implement policies that are unpopular in local communities, such as the construction of windmills or nuclear power plants. However, little is known about how policymakers can increase local support. We argue that perceived economic benefits increase support for otherwise unpopular policies. We test our argument by studying the consequences of nuclear power plants on support for the Green Party in Germany, a strong opponent of nuclear energy. We collected a novel dataset on the geographic location of nuclear plants and voting records since the 1980s. Using difference-in-differences and instrumental variable designs, we find that the opening of nuclear power
+plants has a negative effect on the vote share of the Greens. Additional individual-level panel analyses suggest that this effect is driven by economic considerations. Overall, these results are relevant for the study of energy transitions and the implementation of unpopular policies more generally.
   <br>
+  <br>  
+  
+
 
 ## **Selected Work in Progress**
-    
-**1. The political consequences of nuclear energy policies** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/)   
+**1. How Parties Respond to Environmental Disasters** with [Tim Wappenhans](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/tim-wappenhans/tim-wappenhans), [Lukas Stoetzer](http://lukas-stoetzer.org/)  and [Heike Klüver](http://www.heike-kluever.com/)   
   <br>
   
-**2. How Parties Respond to Environmental Disasters** with [Tim Wappenhans](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/tim-wappenhans/tim-wappenhans), [Lukas Stoetzer](http://lukas-stoetzer.org/)  and [Heike Klüver](http://www.heike-kluever.com/)   
+  **2. From Cheap-Talk to Action: How Political Elites Respond to Environmental Demands** with [Silvia Pianta](https://www.silviapianta.com/home)   
   <br>
   
-**3. Campaign finance laws and representation: Evidence from Citizens United** with [Heike Klüver](http://www.heike-kluever.com/)  
+    **3. When and why do Parties Respond to Protest? Parties’ Responsiveness to Environmental Protests** with [Jóhanna Bjarnadóttir](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comppol-en/team-comparative-politics/johanna-yr-bjarnadottir/johanna-yr-bjarnadottir) and [Violeta Haas](violeta-haas.github.io)
+ <br>
+  
+ **4. Are All Cyclists Green? The Link between Political and Non-Political Environmental Behaviour** with [Jae-Jae Spoon](https://www.jaejaespoon.com/)
+   <br>
+  
+**5. Campaign finance laws and representation: Evidence from Citizens United** with [Heike Klüver](http://www.heike-kluever.com/)  
   
