@@ -12,9 +12,7 @@ redirect_from:
   
 Welcome! I am a Postdoctoral Associate at the [MacMillan Center](https://macmillan.yale.edu/), [Yale University](https://www.yale.edu/). Before that, I received my PhD in political science at the [DYNAMICS graduate school](https://www.sowi.hu-berlin.de/en/dynamics/about), jointly organised by [Humboldt University Berlin](https://www.hu-berlin.de/en) and the [Hertie school](https://www.hertie-school.org/en/) and was a visiting scholar at [UCSD](https://ucsd.edu/). 
 
-The core of my research studies when and how voters and political elites act on climate change, and how these groups influence one another. More specifically, I study how both voters and political elites react to climate change and the politicisation of the environment, as well as the consequences of environmental policy. I am also interested in gender and representation.
-
-I study these questions in established democracies, applying causal inference methods on observational and geospatial data. Prior to my PhD, I obtained a BA (University of Coimbra) and an MSc (London School of Economics) in (social) psychology that inform how I think about political phenomena.
+The core of my research studies environmental politics and seeks to answer two questions: 1. When and why do voters change their opinions and behaviours regarding climate change? and 2. How do political incentives influence political elites' behaviour on climate change? I study these questions in established democracies, applying causal inference methods on observational and geospatial data. In addition to these questions, I am also interested in gender and representation. Prior to my PhD, I obtained a BA (University of Coimbra) and an MSc (London School of Economics) in (social) psychology that inform how I think about political phenomena.
 
 
 On this website, you can find more information on my [research](http://antoniovalentim.github.io/research/), my [teaching experience](http://antoniovalentim.github.io/teaching/), on [datasets](http://antoniovalentim.github.io/data/) I collected, and you can download my [CV](/files/Valentim_CV.pdf).
