@@ -56,7 +56,7 @@ plants has a negative effect on the vote share of the Greens. Additional individ
   **2. From Cheap-Talk to Action: How Political Elites Respond to Environmental Demands** with [Silvia Pianta](https://www.silviapianta.com/home).   
   <br>
   
-   **3. When and why do Parties Respond to Protest? Parties’ Responsiveness to Environmental Protests** with [Jóhanna Bjarnadóttir](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comppol-en/team-comparative-politics/johanna-yr-bjarnadottir/johanna-yr-bjarnadottir) and [Violeta Haas](https://www.violeta-haas.github.io).  
+   **3. When and why do Parties Respond to Protest? Parties’ Responsiveness to Environmental Protests** with [Jóhanna Bjarnadóttir](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comppol-en/team-comparative-politics/johanna-yr-bjarnadottir/johanna-yr-bjarnadottir) and [Violeta Haas](https://violeta-haas.github.io/).  
  <br>
   
  **4. Are All Cyclists Green? The Link between Political and Non-Political Environmental Behaviour** with [Jae-Jae Spoon](https://www.jaejaespoon.com/).  
