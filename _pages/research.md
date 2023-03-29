@@ -21,7 +21,6 @@ permalink: /research/
       
 **3. [The political effects of female representation: Evidence from
 close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3992109)**. 
-  *Draft available upon request*<font size="-1">  <br>
   <strong>Abstract:</strong> Does the election of female politicians foster political participation among women? While it is often argued that representation can promote the participation of minorities and of women in particular, research on this has provided mixed results. In this paper, I contribute to this puzzle by using a regression-discontinuity design with close elections to test whether electing a female MP increases women’s participation in local politics in the UK. I collect a novel dataset of over 300,000 local candidates and use panel surveys to test this relationship. I find that the election of a female MP has no effect on the number of female local candidates, but has an effect on women's political attitudes. These results are important for a better understanding of female and minority participation, and can inform policy on diminishing gender inequalities in politics.</font>
   <br>
   <br>
@@ -35,7 +34,6 @@ close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=39921
   
 
 **5. [Buying voter support for unpopular policies: Evidence from German nuclear power plants](https://osf.io/jnarh)** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/).  
-  *Draft available upon request*<font size="-1">  <br> 
  <strong>Abstract:</strong>   How can governments ensure voters' support for unpopular policies? Policymakers often have to implement policies that are unpopular in local communities, such as the construction of windmills or nuclear power plants. However, little is known about how policymakers can increase local support. We argue that perceived economic benefits increase support for otherwise unpopular policies. We test our argument by studying the consequences of nuclear power plants on support for the Green Party in Germany, a strong opponent of nuclear energy. We collected a novel dataset on the geographic location of nuclear plants and voting records since the 1980s. Using difference-in-differences and instrumental variable designs, we find that the opening of nuclear power
 plants has a negative effect on the vote share of the Greens. Additional individual-level panel analyses suggest that this effect is driven by economic considerations. Overall, these results are relevant for the study of energy transitions and the implementation of unpopular policies more generally.
   <br>
