@@ -33,14 +33,8 @@ close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=39921
   <br>
   
   
-**5. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).  
-  *Draft available upon request*<font size="-1">  <br> 
- <strong>Abstract:</strong> Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of ethnic minorities. While most recent research on integration is focused on the consequences of intergroup contact, less is known about how voters react to these policies. In this study, we address this gap by studying the effect of policies targeting ethnic minorities on outgroup hostility. We argue these policies are means by which political actors define who is entitled to be a member of a polity. We test this argument by studying the effect of face veil ban in the Swiss canton of Ticino on anti-migration voting and hate crimes and find the policy increased outgroup hostility. Using panel data at the individual level, we find some support for our argument. This study has implications for how policies impact the attitudes and behaviours of voters towards minorities as well as for the cohesiveness of multicultural societies.</font> 
-<br>
-  <br>  
-  
 
-**6. [Buying voter support for unpopular policies: Evidence from German nuclear power plants](https://osf.io/jnarh) ** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/).  
+**5. [Buying voter support for unpopular policies: Evidence from German nuclear power plants](https://osf.io/jnarh)** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/).  
   *Draft available upon request*<font size="-1">  <br> 
  <strong>Abstract:</strong>   How can governments ensure voters' support for unpopular policies? Policymakers often have to implement policies that are unpopular in local communities, such as the construction of windmills or nuclear power plants. However, little is known about how policymakers can increase local support. We argue that perceived economic benefits increase support for otherwise unpopular policies. We test our argument by studying the consequences of nuclear power plants on support for the Green Party in Germany, a strong opponent of nuclear energy. We collected a novel dataset on the geographic location of nuclear plants and voting records since the 1980s. Using difference-in-differences and instrumental variable designs, we find that the opening of nuclear power
 plants has a negative effect on the vote share of the Greens. Additional individual-level panel analyses suggest that this effect is driven by economic considerations. Overall, these results are relevant for the study of energy transitions and the implementation of unpopular policies more generally.
@@ -48,6 +42,12 @@ plants has a negative effect on the vote share of the Greens. Additional individ
   <br>  
   
 
+**6. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).  
+  *Draft available upon request*<font size="-1">  <br> 
+ <strong>Abstract:</strong> Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of ethnic minorities. While most recent research on integration is focused on the consequences of intergroup contact, less is known about how voters react to these policies. In this study, we address this gap by studying the effect of policies targeting ethnic minorities on outgroup hostility. We argue these policies are means by which political actors define who is entitled to be a member of a polity. We test this argument by studying the effect of face veil ban in the Swiss canton of Ticino on anti-migration voting and hate crimes and find the policy increased outgroup hostility. Using panel data at the individual level, we find some support for our argument. This study has implications for how policies impact the attitudes and behaviours of voters towards minorities as well as for the cohesiveness of multicultural societies.</font> 
+<br>
+  <br>  
+  
 
 ## **Selected Work in Progress**
 **1. How Parties Respond to Environmental Disasters** with [Tim Wappenhans](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/tim-wappenhans/tim-wappenhans), [Lukas Stoetzer](http://lukas-stoetzer.org/)  and [Heike Klüver](http://www.heike-kluever.com/).   
