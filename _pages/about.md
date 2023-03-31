@@ -15,7 +15,7 @@ Welcome! I am a Postdoctoral Associate at the [MacMillan Center](https://macmill
 The core of my research studies environmental politics and seeks to answer two questions: 1. When and why do voters change their opinions and behaviours regarding climate change? and 2. How do political incentives influence political elites' behaviour on climate change? I study these questions in established democracies, applying causal inference methods on observational and geospatial data. In addition to these questions, I am also interested in gender and representation. Prior to my PhD, I obtained a BA (University of Coimbra) and an MSc (London School of Economics) in (social) psychology that inform how I think about political phenomena.
 
 
-On this website, you can find more information on my [research](http://antoniovalentim.github.io/research/), my [teaching experience](http://antoniovalentim.github.io/teaching/), on [datasets](http://antoniovalentim.github.io/data/) I collected, and you can download my [CV](/files/Valentim_CV.pdf).
+On this website, you can find more information on my [research](http://antoniovalentim.github.io/research/), my [teaching experience](http://antoniovalentim.github.io/teaching/), on [datasets](http://antoniovalentim.github.io/data/) I collected, and you can download my [CV](/files/AValentim_CV.pdf).
 
 If you are interested in knowing more about any of these projects or think we have similar interests, please feel free to contact me at [antonio.valentim@yale.edu](mailto:antonio.valentim@yale.edu).
 
