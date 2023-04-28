@@ -13,7 +13,7 @@ permalink: /research/
   <br>
   <br>
    
-**2. Repeated Exposure and Protest Outcomes: Evidence from Fridays for Future**  
+**2. [Repeated Exposure and Protest Outcomes: Evidence from Fridays for Future][https://osf.io/preprints/socarxiv/m6dpg/]**  
   *Draft available upon request*.  
 *Under Review* <font size="-1">  <br>
   <strong>Abstract:</strong> When do political protests influence citizens’ behaviour? Political protests are a key mean by which citizens try to influence political outcomes. Protests often aim at raising voters’ awareness on specific issues, but when is this successful? In this paper, I build on social-psychological work to argue that a key characteristic of effective protests is their capability to repeatedly expose voters to their message. This paper tests this argument by studying the effect of Fridays for Future (FFF) protests on voting for Green Parties. Using a novel dataset on FFF protests in Germany, and a difference-in-differences design, I find that exposure to environmental protests increases the vote share of the Greens and that repeated exposure to protests increases this effect. Additional analyses using panel survey data explore the individual-level mechanisms at play, and their generalizability beyond Germany and voting behaviour. Overall, these results are important to understand when and how protests are influential, as well as to understand the effects of environmental protests specifically. </font>
@@ -28,7 +28,8 @@ close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=39921
   <br>
    
 **4. The Electoral Consequences of New Political Actors: Evidence from the German Greens** with [Tom Arend](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/arend) and [Fabio Ellger](https://www.fabioellger.com/).  
- *Under Review.*  *Draft available upon request*<font size="-1">   <br>
+  *Draft available upon request*.  
+*Under Review* <font size="-1">  <br>
   <strong>Abstract:</strong> What are the consequences of new political actors? Recent research suggests that the emergence of radical right parties (RRPs) can defy long established structures of democratic competition, with consequences for the behavior of voters and political elites. We study whether that is part of a broader pattern by which new actors challenge the political establishment and provoke electoral backlash. With radical policy positions and new forms of organizing, Green parties were one of the first successful disruptors of post-war European party systems. We argue that Green party success threatens established norms of politics, leading to a backlash from conservative voters. We identify this effect with a difference-in-differences design in Germany, and find that Greens success lead to a conservative backlash. We also find evidence of similar patterns in multiple other countries and of individual-level dynamics that suppport our argument. While much research emphasizes the disruptive role of RRPs, our results point towards a more general pattern when new political actors emerge.</font>
   <br>
   <br>
