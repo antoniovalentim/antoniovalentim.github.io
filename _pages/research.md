@@ -14,7 +14,6 @@ permalink: /research/
   <br>
    
 **2. [Repeated Exposure and Protest Outcomes: Evidence from Fridays for Future](https://osf.io/preprints/socarxiv/m6dpg/)**  
-  *Draft available upon request*.  
 *Under Review* <font size="-1">  <br>
   <strong>Abstract:</strong> When do political protests influence citizens’ behaviour? Political protests are a key mean by which citizens try to influence political outcomes. Protests often aim at raising voters’ awareness on specific issues, but when is this successful? In this paper, I build on social-psychological work to argue that a key characteristic of effective protests is their capability to repeatedly expose voters to their message. This paper tests this argument by studying the effect of Fridays for Future (FFF) protests on voting for Green Parties. Using a novel dataset on FFF protests in Germany, and a difference-in-differences design, I find that exposure to environmental protests increases the vote share of the Greens and that repeated exposure to protests increases this effect. Additional analyses using panel survey data explore the individual-level mechanisms at play, and their generalizability beyond Germany and voting behaviour. Overall, these results are important to understand when and how protests are influential, as well as to understand the effects of environmental protests specifically. </font>
   <br>
