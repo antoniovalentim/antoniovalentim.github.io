@@ -24,7 +24,7 @@ Job Market Paper, <font size="-1">  <br>
       
 **3. [The political effects of female representation: Evidence from
 close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3992109)**.  
-<font size="-1">     <br>
+<font size="-1">     
 <strong>Abstract:</strong> Does the election of female politicians foster political participation among women? While it is often argued that representation can promote the participation of minorities and of women in particular, research on this has provided mixed results. In this paper, I contribute to this puzzle by using a regression-discontinuity design with close elections to test whether electing a female MP increases women’s participation in local politics in the UK. I collect a novel dataset of over 300,000 local candidates and use panel surveys to test this relationship. I find that the election of a female MP has no effect on the number of female local candidates, but has an effect on women's political attitudes. These results are important for a better understanding of female and minority participation, and can inform policy on diminishing gender inequalities in politics.</font>
   <br>
   <br>
