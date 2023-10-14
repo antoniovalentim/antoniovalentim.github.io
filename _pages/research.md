@@ -14,7 +14,7 @@ Job Market Paper. <font size="-1">  <br>
   <br>
   <br>
 
-**2. [Imperfect Information and Party Responsiveness: Evidence from Extreme Weather Events and the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.  
+**2. [Imperfect Information and Party Responsiveness: Evidence from Extreme Weather Events and the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.
 <font size="-1"> <strong>Abstract:</strong> Do parties respond to voters' preferences? Scholars of party politics often argue that parties respond to voters’ preferences to maximise their likelihood of being elected. I test this assumption by studying how changes in voters' preferences impact parties' strategies. Specifically, I study the effect of floods on the English Greens’ candidate allocation. I argue that floods provide an electoral opportunity for Green parties: they put the environment on the agenda and create an incentive for protest vote. Matching geospatial data with voting records, I use a difference-in-differences design to show that floods influence voters' preferences, but have no effect on the Greens' candidate allocation. Using surveys, campaign expenditure data and interviews, I find support for the idea that the party does not have the resources for or does not prioritise information on voters' preferences. These results are important to understand when elites respond to voters and react on the environment.</font>
   <br>
   <br>
