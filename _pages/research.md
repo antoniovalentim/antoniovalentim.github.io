@@ -8,14 +8,14 @@ permalink: /research/
 ## **Working Papers**
 
 <br>
-**1. [Repeated Exposure and Protest Outcomes: How Fridays for Future Protests Influenced Voters](https://osf.io/preprints/socarxiv/m6dpg/)**  
-Job Market Paper. R&R <font size="-1">  <br>
+**1.[Repeated Exposure and Protest Outcomes: How Fridays for Future Protests Influenced Voters](https://osf.io/preprints/socarxiv/m6dpg/)**  
+Job Market Paper. R&R <br>
  <font size="-1">  <strong>Abstract:</strong> When do political protests influence citizens’ behaviour? Political protests are a key mean by which citizens try to influence political outcomes. Protests often aim at raising voters’ awareness on specific issues, but when is this successful? In this paper, I build on social-psychological work to argue that a key characteristic of effective protests is their capability to repeatedly expose voters to their message. This paper tests this argument by studying the effect of Fridays for Future (FFF) protests on voting for Green Parties. Using a novel dataset on FFF protests in Germany, and a difference-in-differences design, I find that exposure to environmental protests increases the vote share of the Greens and that repeated exposure to protests increases this effect. Additional analyses using panel survey data explore the individual-level mechanisms at play, and their generalizability beyond Germany and voting behaviour. Overall, these results are important to understand when and how protests are influential, as well as to understand the effects of environmental protests specifically. </font>
   <br>
   <br>
   
 **2. How Parties Respond to Environmental Disasters** with [Tim Wappenhans](https://www.timwappenhans.com/), [Lukas Stoetzer](http://lukas-stoetzer.org/)  and [Heike Klüver](http://www.heike-kluever.com/). <br>
-*Draft available upon request*<font size="-1">. R&R <font size="-1">  <br>
+*Draft available upon request*. R&R   <br>
 <font size="-1"> <strong>Abstract:</strong> Climate change increases the frequency and severity of extreme weather events. To effectively address the consequences of climate change, political leaders need to prioritize environmental issues and maintain this commitment over time. We study the impact of extreme weather events on political parties' engagement with environmental concerns. We estimate parties’ attention to environmental issues using supervised learning algorithms on over 260,000 press releases published by all parliamentary parties from nine European countries over the last decade. Using a difference-in-differences design, we show that political parties do not increase their attention to environmental issues following fatal extreme weather events, independent of party family, type of weather event, and political context. These results hold when expanding the time frame for potential responses and against different classification schemes. Our findings raise doubts about the extent to which the consequences of climate change will lead to heightened political attention.
   <br>
   <br>
@@ -51,7 +51,7 @@ plants has a negative effect on the vote share of the Greens. Additional individ
   
 
 ## **Work in Progress**
-**1. Information, Political Messaging and Climate Preferences**   
+**1. Information, Political Messaging and Climate Preferences.**   
   <br>
   
   **2. From Cheap-Talk to Action: How Political Elites Respond to Environmental Demands** with [Silvia Pianta](https://www.silviapianta.com/home).   
