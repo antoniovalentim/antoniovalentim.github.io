@@ -14,7 +14,7 @@ Job Market Paper. R&R <font size="-1">  <br>
   <br>
   <br>
   
-**2. How Parties Respond to Environmental Disasters** with [Tim Wappenhans](https://www.timwappenhans.com/), [Lukas Stoetzer](http://lukas-stoetzer.org/)  and [Heike Klüver](http://www.heike-kluever.com/).
+**2. How Parties Respond to Environmental Disasters** with [Tim Wappenhans](https://www.timwappenhans.com/), [Lukas Stoetzer](http://lukas-stoetzer.org/)  and [Heike Klüver](http://www.heike-kluever.com/). <br>
 *Draft available upon request*<font size="-1">. R&R <font size="-1">  <br>
 <font size="-1"> <strong>Abstract:</strong> Climate change increases the frequency and severity of extreme weather events. To effectively address the consequences of climate change, political leaders need to prioritize environmental issues and maintain this commitment over time. We study the impact of extreme weather events on political parties' engagement with environmental concerns. We estimate parties’ attention to environmental issues using supervised learning algorithms on over 260,000 press releases published by all parliamentary parties from nine European countries over the last decade. Using a difference-in-differences design, we show that political parties do not increase their attention to environmental issues following fatal extreme weather events, independent of party family, type of weather event, and political context. These results hold when expanding the time frame for potential responses and against different classification schemes. Our findings raise doubts about the extent to which the consequences of climate change will lead to heightened political attention.
   <br>
