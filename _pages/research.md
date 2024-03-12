@@ -40,11 +40,7 @@ close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=39921
 plants has a negative effect on the vote share of the Greens. Additional individual-level panel analyses suggest that this effect is driven by economic considerations. Overall, these results are relevant for the study of energy transitions and the implementation of unpopular policies more generally. </font>
   <br>
   
-**7. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).  
-*Draft available upon request*<font size="-1">  <br> 
-<strong>Abstract:</strong> Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of ethnic minorities. While most recent research on integration is focused on the consequences of intergroup contact, less is known about how voters react to these policies. In this study, we address this gap by studying the effect of policies targeting ethnic minorities on outgroup hostility. We argue these policies are means by which political actors define who is entitled to be a member of a polity. We test this argument by studying the effect of face veil ban in the Swiss canton of Ticino on anti-migration voting and hate crimes and find the policy increased outgroup hostility. Using panel data at the individual level, we find some support for our argument. This study has implications for how policies impact the attitudes and behaviours of voters towards minorities as well as for the cohesiveness of multicultural societies. </font>
-  <br>
-  <br>
+
 
   
 
