@@ -63,7 +63,7 @@ plants has a negative effect on the vote share of the Greens. Additional individ
  **3. Are All Cyclists Green? The Link between Political and Non-Political Environmental Behaviour** with [Jae-Jae Spoon](https://www.jaejaespoon.com/).  
    <br>  
     
- **4. Political incentives and climate adaptation policy?** with [Hanno Hilbig](https://www.hannohilbig.com/) and [Christian Baehr](https://politics.princeton.edu/people/christian-baehr).  
+ **4. Political incentives and climate adaptation policy** with [Hanno Hilbig](https://www.hannohilbig.com/) and [Christian Baehr](https://politics.princeton.edu/people/christian-baehr).  
    <br>  
    
     
