@@ -56,12 +56,16 @@ plants has a negative effect on the vote share of the Greens. Additional individ
 ## **Work in Progress**
 **1. Information, Political Messaging and Climate Preferences.**   
   <br>
+  
   **2. From Cheap-Talk to Action: How Political Elites Respond to Environmental Demands** with [Silvia Pianta](https://www.silviapianta.com/home).   
   <br>  
+  
  **3. Are All Cyclists Green? The Link between Political and Non-Political Environmental Behaviour** with [Jae-Jae Spoon](https://www.jaejaespoon.com/).  
-   <br>      
+   <br>     
+   
  **4. Political incentives and climate adaptation policy** with [Hanno Hilbig](https://www.hannohilbig.com/) and [Christian Baehr](https://politics.princeton.edu/people/christian-baehr).  
-   <br>      
+   <br>   
+   
  **5. Climate Change and political selection** with [Guilherme Fasolin](https://as.vanderbilt.edu/political-science/bio/guilherme-fasolin/)
    <br>  
   
