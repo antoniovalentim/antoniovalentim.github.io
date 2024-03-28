@@ -23,21 +23,21 @@ Job Market Paper. R&R  <font size="-1"> <br>
   <br>
   <br>
   
+  
+**2. The Electoral Consequences of New Political Actors: Evidence from the German Greens** with [Tom Arend](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/arend) and [Fabio Ellger](https://www.fabioellger.com/).  
+*Draft available upon request. R&R  <font size="-1"> <br>
+<strong>Abstract:</strong> What are the consequences of new political actors? Recent research suggests that the emergence of radical right parties (RRPs) can defy long established structures of democratic competition, with consequences for the behavior of voters and political elites. We study whether that is part of a broader pattern by which new actors challenge the political establishment and provoke electoral backlash. With radical policy positions and new forms of organizing, Green parties were one of the first successful disruptors of post-war European party systems. We argue that Green party success threatens established norms of politics, leading to a backlash from conservative voters. We identify this effect with a difference-in-differences design in Germany, and find that Greens success lead to a conservative backlash. We also find evidence of similar patterns in multiple other countries and of individual-level dynamics that suppport our argument. While much research emphasizes the disruptive role of RRPs, our results point towards a more general pattern when new political actors emerge. </font>
+  <br>
+  <br>
 
   
-**2. [Imperfect Information and Party Responsiveness: Evidence from Extreme Weather Events and the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.
+**3. [Imperfect Information and Party Responsiveness: Evidence from Extreme Weather Events and the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.
 <font size="-1"> <strong>Abstract:</strong>  Do parties respond to voters' preferences? Scholars of party politics often argue that parties respond to voters’ preferences to maximise their likelihood of being elected. I test this assumption by studying how changes in voters' preferences impact parties' strategies. Specifically, I study the effect of floods on the English Greens’ candidate allocation. I argue that floods provide an electoral opportunity for Green parties: they put the environment on the agenda and create an incentive for protest vote. Matching geospatial data with voting records, I use a difference-in-differences design to show that floods influence voters' preferences, but have no effect on the Greens' candidate allocation. Using surveys, campaign expenditure data and interviews, I find support for the idea that the party does not have the resources for or does not prioritise information on voters' preferences. These results are important to understand when elites respond to voters and react on the environment. </font>
   <br>
   
-**3. [The political effects of female representation: Evidence from
+**4. [The political effects of female representation: Evidence from
 close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3992109)**.  
 <font size="-1"> <strong>Abstract:</strong> Does the election of female politicians foster political participation among women? While it is often argued that representation can promote the participation of minorities and of women in particular, research on this has provided mixed results. In this paper, I contribute to this puzzle by using a regression-discontinuity design with close elections to test whether electing a female MP increases women’s participation in local politics in the UK. I collect a novel dataset of over 300,000 local candidates and use panel surveys to test this relationship. I find that the election of a female MP has no effect on the number of female local candidates, but has an effect on women's political attitudes. These results are important for a better understanding of female and minority participation, and can inform policy on diminishing gender inequalities in politics. </font>
-  <br>
-  
-**4. The Electoral Consequences of New Political Actors: Evidence from the German Greens** with [Tom Arend](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/arend) and [Fabio Ellger](https://www.fabioellger.com/).  
-*Draft available upon request*<font size="-1">  <br> 
-<strong>Abstract:</strong> What are the consequences of new political actors? Recent research suggests that the emergence of radical right parties (RRPs) can defy long established structures of democratic competition, with consequences for the behavior of voters and political elites. We study whether that is part of a broader pattern by which new actors challenge the political establishment and provoke electoral backlash. With radical policy positions and new forms of organizing, Green parties were one of the first successful disruptors of post-war European party systems. We argue that Green party success threatens established norms of politics, leading to a backlash from conservative voters. We identify this effect with a difference-in-differences design in Germany, and find that Greens success lead to a conservative backlash. We also find evidence of similar patterns in multiple other countries and of individual-level dynamics that suppport our argument. While much research emphasizes the disruptive role of RRPs, our results point towards a more general pattern when new political actors emerge. </font>
-  <br>
   <br>
   
 **5. [Buying voter support for unpopular policies: Evidence from German nuclear power plants](https://osf.io/jnarh)** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/).  
