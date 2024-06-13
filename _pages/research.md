@@ -9,7 +9,7 @@ permalink: /research/
 
 <br>
 **1. [Extreme Weather Events Do Not Increase Political Parties’ Environmental Attention](https://www.nature.com/articles/s41558-024-02024-z#Ack1)** with [Tim Wappenhans](https://www.timwappenhans.com/), [Lukas Stoetzer](http://lukas-stoetzer.org/)  and [Heike Klüver](http://www.heike-kluever.com/). <br>
- *Nature Climate Change (2024) *   <font size="-1">  <br>
+ *Nature Climate Change (2024)*   <font size="-1">  <br>
 <strong>Abstract:</strong> As the impacts of climate change become increasingly clear, we study if extreme weather events increase political parties’ discussion of environmental issues. Combining supervised learning algorithms on over 260,000 press releases by European parties with a difference-in-differences design, we find that, apart from Green parties, extreme weather events do not increase attention towards environmental issues. This suggests the consequences of climate change might not directly increase political attention. </font>
   <br>
   <br>
