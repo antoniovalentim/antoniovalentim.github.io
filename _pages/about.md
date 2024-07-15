@@ -19,5 +19,5 @@ I study these questions using econometric tools, survey experiments and intervie
 
 On this website, you can find more information on my [research](http://antoniovalentim.github.io/research/), my [teaching experience](http://antoniovalentim.github.io/teaching/), on [datasets](http://antoniovalentim.github.io/data/) I collected, and you can download my [CV](/files/AValentim_CV.pdf).
 
-If you are interested in knowing more about any of these projects or think we have similar interests, please feel free to contact me at [antonio.valentim@yale.edu](mailto:antonio.valentim@yale.edu).
+If you are interested in knowing more about any of these projects or think we have similar interests, please feel free to contact me at [a.valentim@lse.ac.uk](mailto:a.valentim@lse.ac.uk).
 
