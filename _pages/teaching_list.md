@@ -9,6 +9,22 @@ redirect_from:
 ---
 
 {% include base_path %}
+* **Analytical Politics and Policymaking in Europe** 
+  * Seminar Convener
+  * MSc level, LSE, Autumn 2024
+  * Course outline: [link](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/EU/2020_EU489.htm)
+
+
+* **People and Politics in Europe** 
+  * Seminar Convener
+  * MSc level, LSE, Winter 2025
+  * Course outline: [link](https://www.lse.ac.uk/resources/calendar2022-2023/courseGuides/EU/2022_EU4A5.htm)
+ 
+* **Political Economy of the Green Transition in Europe** 
+  * Seminar Convener
+  * MSc level, LSE, Winter 2025
+  * Course outline: [link](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/EU/2023_EU4A7.htm)
+
 
 * **Environmental Politics** 
   * Lecturer
