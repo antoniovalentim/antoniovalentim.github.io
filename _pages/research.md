@@ -31,19 +31,23 @@ Job Market Paper. R&R  <font size="-1"> <br>
   <br>
 
 
+**2. [Buying voter support for unpopular policies: Evidence from German nuclear power plants](https://osf.io/jnarh)** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/).R&R   
+<font size="-1"> <strong>Abstract:</strong>   How can governments ensure voters' support for unpopular policies? Policymakers often have to implement policies that are unpopular in local communities, such as the construction of windmills or nuclear power plants. However, little is known about how policymakers can increase local support. We argue that perceived economic benefits increase support for otherwise unpopular policies. We test our argument by studying the consequences of nuclear power plants on support for the Green Party in Germany, a strong opponent of nuclear energy. We collected a novel dataset on the geographic location of nuclear plants and voting records since the 1980s. Using difference-in-differences and instrumental variable designs, we find that the opening of nuclear power
+plants has a negative effect on the vote share of the Greens. Additional individual-level panel analyses suggest that this effect is driven by economic considerations. Overall, these results are relevant for the study of energy transitions and the implementation of unpopular policies more generally. </font>  
+
+  <br>
   
-**2. [Imperfect Information and Party Responsiveness: Evidence from Extreme Weather Events and the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.
+
+**3. [Imperfect Information and Party Responsiveness: Evidence from Extreme Weather Events and the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.
 <font size="-1"> <strong>Abstract:</strong>  Do parties respond to voters' preferences? Scholars of party politics often argue that parties respond to voters’ preferences to maximise their likelihood of being elected. I test this assumption by studying how changes in voters' preferences impact parties' strategies. Specifically, I study the effect of floods on the English Greens’ candidate allocation. I argue that floods provide an electoral opportunity for Green parties: they put the environment on the agenda and create an incentive for protest vote. Matching geospatial data with voting records, I use a difference-in-differences design to show that floods influence voters' preferences, but have no effect on the Greens' candidate allocation. Using surveys, campaign expenditure data and interviews, I find support for the idea that the party does not have the resources for or does not prioritise information on voters' preferences. These results are important to understand when elites respond to voters and react on the environment. </font>
   <br>
   
-**3. [The political effects of female representation: Evidence from
+**4. [The political effects of female representation: Evidence from
 close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3992109)**.  
 <font size="-1"> <strong>Abstract:</strong> Does the election of female politicians foster political participation among women? While it is often argued that representation can promote the participation of minorities and of women in particular, research on this has provided mixed results. In this paper, I contribute to this puzzle by using a regression-discontinuity design with close elections to test whether electing a female MP increases women’s participation in local politics in the UK. I collect a novel dataset of over 300,000 local candidates and use panel surveys to test this relationship. I find that the election of a female MP has no effect on the number of female local candidates, but has an effect on women's political attitudes. These results are important for a better understanding of female and minority participation, and can inform policy on diminishing gender inequalities in politics. </font>
   <br>
   
-**4. [Buying voter support for unpopular policies: Evidence from German nuclear power plants](https://osf.io/jnarh)** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/).  
-<font size="-1"> <strong>Abstract:</strong>   How can governments ensure voters' support for unpopular policies? Policymakers often have to implement policies that are unpopular in local communities, such as the construction of windmills or nuclear power plants. However, little is known about how policymakers can increase local support. We argue that perceived economic benefits increase support for otherwise unpopular policies. We test our argument by studying the consequences of nuclear power plants on support for the Green Party in Germany, a strong opponent of nuclear energy. We collected a novel dataset on the geographic location of nuclear plants and voting records since the 1980s. Using difference-in-differences and instrumental variable designs, we find that the opening of nuclear power
-plants has a negative effect on the vote share of the Greens. Additional individual-level panel analyses suggest that this effect is driven by economic considerations. Overall, these results are relevant for the study of energy transitions and the implementation of unpopular policies more generally. </font>
+
   <br>
   
 **5. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).  
