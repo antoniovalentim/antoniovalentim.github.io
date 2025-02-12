@@ -65,7 +65,11 @@ close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=39921
  **2. Political incentives and climate adaptation policy** with [Hanno Hilbig](https://www.hannohilbig.com/) and [Christian Baehr](https://politics.princeton.edu/people/christian-baehr).  
    <br>   
    
- **3. Climate Change and political selection** with [Guilherme Fasolin](https://as.vanderbilt.edu/political-science/bio/guilherme-fasolin/)
+ **3. Climate Change and Political Entry: Evidence from Brazilian Municipal Elections** with [Guilherme Fasolin](https://as.vanderbilt.edu/political-science/bio/guilherme-fasolin/)
+   <br>  
+   
+   
+ **4. The Paradox of Progressive Politics: Immigrant Support for Green Parties** with [Korinna Lindemann](https://korinnalindemann.github.io/)
    <br>  
   
   
