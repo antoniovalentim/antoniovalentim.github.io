@@ -39,7 +39,8 @@ plants has a negative effect on the vote share of the Greens. Additional individ
   
 
 
-**3. [The Paradox of Progressive Politics: Immigrant Support for Green Parties](https://osf.io/et5b6_v1/)** with [Korinna Lindemann](https://korinnalindemann.github.io/).
+**3. [The Paradox of Progressive Politics: Immigrant Support for Green Parties](https://osf.io/et5b6_v1/)** with [Korinna Lindemann](https://korinnalindemann.github.io/).  
+R&R   <br>
 <font size="-1"> <strong>Abstract:</strong>  Progressive parties often advocate pro-immigration policies but do not attract equal support from all immigrant groups. Why is this the case? This study examines immigrant behavior and their support for Green parties, a key progressive party family in Western Europe. Our findings reveal that immigrants from established democracies are more likely to support Green parties compared to those from (post-)authoritarian regimes. We attribute this disparity to socialization: Individuals from established democracies, where post-materialist values and environmental politics are more prominent, are more attuned to green issues. This heightened salience influences their political preferences after migration. Using entropy balancing on cross-national European surveys, we identify such a Green support gap and provide evidence for our proposed mechanism. These results inform debates on how cultural norms travel across political contexts and the socialization effects of political institutions.  </font>
     <br>
   
