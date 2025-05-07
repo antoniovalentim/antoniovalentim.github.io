@@ -38,11 +38,16 @@ plants has a negative effect on the vote share of the Greens. Additional individ
   <br>
   
 
-**3. [Imperfect Information and Party Responsiveness: Evidence from Extreme Weather Events and the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.
+
+**3. [The Paradox of Progressive Politics: Immigrant Support for Green Parties](https://osf.io/et5b6_v1/)** with [Korinna Lindemann](https://korinnalindemann.github.io/).
+<font size="-1"> <strong>Abstract:</strong>  Progressive parties often advocate pro-immigration policies but do not attract equal support from all immigrant groups. Why is this the case? This study examines immigrant behavior and their support for Green parties, a key progressive party family in Western Europe. Our findings reveal that immigrants from established democracies are more likely to support Green parties compared to those from (post-)authoritarian regimes. We attribute this disparity to socialization: Individuals from established democracies, where post-materialist values and environmental politics are more prominent, are more attuned to green issues. This heightened salience influences their political preferences after migration. Using entropy balancing on cross-national European surveys, we identify such a Green support gap and provide evidence for our proposed mechanism. These results inform debates on how cultural norms travel across political contexts and the socialization effects of political institutions.  </font>
+    <br>
+  
+**4. [Imperfect Information and Party Responsiveness: Evidence from Extreme Weather Events and the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.
 <font size="-1"> <strong>Abstract:</strong>  Do parties respond to voters' preferences? Scholars of party politics often argue that parties respond to voters’ preferences to maximise their likelihood of being elected. I test this assumption by studying how changes in voters' preferences impact parties' strategies. Specifically, I study the effect of floods on the English Greens’ candidate allocation. I argue that floods provide an electoral opportunity for Green parties: they put the environment on the agenda and create an incentive for protest vote. Matching geospatial data with voting records, I use a difference-in-differences design to show that floods influence voters' preferences, but have no effect on the Greens' candidate allocation. Using surveys, campaign expenditure data and interviews, I find support for the idea that the party does not have the resources for or does not prioritise information on voters' preferences. These results are important to understand when elites respond to voters and react on the environment. </font>
   <br>
   
-**4. [The political effects of female representation: Evidence from
+**5. [The political effects of female representation: Evidence from
 close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3992109)**.  
 <font size="-1"> <strong>Abstract:</strong> Does the election of female politicians foster political participation among women? While it is often argued that representation can promote the participation of minorities and of women in particular, research on this has provided mixed results. In this paper, I contribute to this puzzle by using a regression-discontinuity design with close elections to test whether electing a female MP increases women’s participation in local politics in the UK. I collect a novel dataset of over 300,000 local candidates and use panel surveys to test this relationship. I find that the election of a female MP has no effect on the number of female local candidates, but has an effect on women's political attitudes. These results are important for a better understanding of female and minority participation, and can inform policy on diminishing gender inequalities in politics. </font>
   <br>
@@ -50,7 +55,7 @@ close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=39921
 
   <br>
   
-**5. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).  
+**6. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).  
 *Draft available upon request*<font size="-1">  <br> 
 <strong>Abstract:</strong> Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of ethnic minorities. While most recent research on integration is focused on the consequences of intergroup contact, less is known about how voters react to these policies. In this study, we address this gap by studying the effect of policies targeting ethnic minorities on outgroup hostility. We argue these policies are means by which political actors define who is entitled to be a member of a polity. We test this argument by studying the effect of face veil ban in the Swiss canton of Ticino on anti-migration voting and hate crimes and find the policy increased outgroup hostility. Using panel data at the individual level, we find some support for our argument. This study has implications for how policies impact the attitudes and behaviours of voters towards minorities as well as for the cohesiveness of multicultural societies. </font>
   <br>
@@ -69,7 +74,7 @@ close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=39921
    <br>  
    
    
- **4. The Paradox of Progressive Politics: Immigrant Support for Green Parties** with [Korinna Lindemann](https://korinnalindemann.github.io/)
+
    <br>  
   
   
