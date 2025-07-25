@@ -29,7 +29,7 @@ permalink: /research/
   <br>
 
   
-**4. [How nuclear power hurts the Greens: Evidence from German nuclear power plants]([https://osf.io/preprints/osf/jnarh_v2](https://www.sciencedirect.com/science/article/pii/S0261379425000654))** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/).   
+**4. [How nuclear power hurts the Greens: Evidence from German nuclear power plants](https://www.sciencedirect.com/science/article/pii/S0261379425000654)** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/).   
  *Electoral Studies (2025)*   <font size="-1">  <br>
 <font size="-1"> <strong>Abstract:</strong>   What are the electoral consequences of nuclear energy for Green parties? Despite the centrality of nuclear opposition to Green party platforms, and the social movements that helped them emerge, little research has examined the electoral impact of this stance.  Building on theories of energy transitions and local political economy, we propose that the economic benefits of nuclear power can mitigate local public opposition to such otherwise unpopular energy policies. We test this by analyzing the effect of nuclear power plants on electoral support for the German Greens, one of the most vocal opponents of nuclear energy.  Using a novel dataset that combines the geolocation of nuclear plants with voting records since the 1980s, and employing difference-in-differences and instrumental variable designs, we find that the opening of nuclear plants correlates with a decrease in Green party vote share. These findings are relevant for understanding Green parties, energy transitions, and unpopular policies. </font>  
 
