@@ -62,7 +62,7 @@ close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=39921
 **1. Are All Cyclists Green? The Link between Political and Non-Political Environmental Behaviour** with [Jae-Jae Spoon](https://www.jaejaespoon.com/).  
    <br>     
    
- **2. Political incentives and climate adaptation policy** with [Hanno Hilbig](https://www.hannohilbig.com/) and [Christian Baehr](https://politics.princeton.edu/people/christian-baehr).  
+ **2. Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria** with [Hanno Hilbig](https://www.hannohilbig.com/) and [Christian Baehr](https://politics.princeton.edu/people/christian-baehr).  
    <br>   
    
  **3. Climate Change and Political Entry: Evidence from Brazilian Municipal Elections** with [Guilherme Fasolin](https://as.vanderbilt.edu/political-science/bio/guilherme-fasolin/)
