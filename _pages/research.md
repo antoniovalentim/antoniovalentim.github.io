@@ -23,32 +23,25 @@ permalink: /research/
 **5. [The Paradox of Progressive Politics: Immigrant Support for Green Parties](https://osf.io/et5b6_v1/)** with [Korinna Lindemann](https://korinnalindemann.github.io/).   
  *Political Science and Research Methods (Conditionally Accepted)*   <font size="-1">  <br>
   
-## **Working Papers**
-
-**1. [Imperfect Information and Party Responsiveness: Evidence from Extreme Weather Events and the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.
-  <br>
-  
-**2. [The political effects of female representation: Evidence from
-close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3992109)**.  
-  <br>
-  
-**3. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).  
-*Draft available upon request*<font size="-1">  <br> 
-
-
-  
-## **Work in Progress**
+## **Working Papers and Work in Progress**
 **1. Are All Cyclists Green? The Link between Political and Non-Political Environmental Behaviour** with [Jae-Jae Spoon](https://www.jaejaespoon.com/).  
    <br>     
    
- **2. Voter Responses to Climate Adaptation in High-Risk Communities** with [Hanno Hilbig](https://www.hannohilbig.com/) and [Christian Baehr](https://christianbaehr.com/).  
+ **2. Voter Responses to Climate Adaptation in High-Risk Communities** with [Christian Baehr](https://christianbaehr.com/) and [Hanno Hilbig](https://www.hannohilbig.com/).  
    <br>   
    
  **3. Climate Change and Political Entry: Evidence from Brazilian Municipal Elections** with [Guilherme Fasolin](https://as.vanderbilt.edu/political-science/bio/guilherme-fasolin/)
    <br>  
    
-   
+**4. [Imperfect Information and Party Responsiveness: Evidence from Extreme Weather Events and the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.
+  <br>
+  
+**5. [The political effects of female representation: Evidence from
+close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3992109)**.  
+  <br>
+  
+**6. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).  
+*Draft available upon request*<font size="-1">  <br> 
 
-   <br>  
   
   
