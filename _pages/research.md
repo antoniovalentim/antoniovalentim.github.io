@@ -5,23 +5,22 @@ permalink: /research/
 
 ---
 ## **Publications**
-
-
 <br>
-**1. [Extreme Weather Events Do Not Increase Political Parties’ Environmental Attention](https://www.nature.com/articles/s41558-024-02024-z)** with [Tim Wappenhans](https://www.timwappenhans.com/), [Lukas Stoetzer](http://lukas-stoetzer.org/)  and [Heike Klüver](http://www.heike-kluever.com/). <br>
- *Nature Climate Change (2024)*   <font size="-1">  <br>
-  
-**2. [Repeated Exposure and Protest Outcomes: How Fridays for Future Protests Influenced Voters](https://osf.io/preprints/socarxiv/m6dpg/)**  
+**1. [Repeated Exposure and Protest Outcomes: How Fridays for Future Protests Influenced Voters](https://osf.io/preprints/socarxiv/m6dpg/)**  
  *American Journal of Political Science (Conditionally Accepted)*   <font size="-1">  <br>
- 
+   
+**2. [The Paradox of Progressive Politics: Immigrant Support for Green Parties](https://osf.io/et5b6_v1/)** with [Korinna Lindemann](https://korinnalindemann.github.io/).   
+ *Political Science and Research Methods (Conditionally Accepted)*   <font size="-1">  <br>
+   
 **3. [Green Party Entry and Conservative Backlash: Evidence from Germany](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/green-party-entry-and-conservative-backlash-evidence-from-germany/F9FC07E906CBA83C018F296DBEA9D072)** with [Tom Arend](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/arend) and [Fabio Ellger](https://www.fabioellger.com/).  
  *British Journal of Political Science (2025)*   <font size="-1">  <br>
  
 **4. [How nuclear power hurts the Greens: Evidence from German nuclear power plants](https://www.sciencedirect.com/science/article/pii/S0261379425000654)** with [Heike Klüver](http://www.heike-kluever.com/) and [Cornelius Erfort](http://corneliuserfort.de/).   
  *Electoral Studies (2025)*  <br>
 
-**5. [The Paradox of Progressive Politics: Immigrant Support for Green Parties](https://osf.io/et5b6_v1/)** with [Korinna Lindemann](https://korinnalindemann.github.io/).   
- *Political Science and Research Methods (Conditionally Accepted)*   <font size="-1">  <br>
+**5. [Extreme Weather Events Do Not Increase Political Parties’ Environmental Attention](https://www.nature.com/articles/s41558-024-02024-z)** with [Tim Wappenhans](https://www.timwappenhans.com/), [Lukas Stoetzer](http://lukas-stoetzer.org/)  and [Heike Klüver](http://www.heike-kluever.com/). <br>
+ *Nature Climate Change (2024)*   <font size="-1">  <br>
+  
   
 ## **Working Papers and Work in Progress**
 **1. Are All Cyclists Green? The Link between Political and Non-Political Environmental Behaviour** with [Jae-Jae Spoon](https://www.jaejaespoon.com/).  
