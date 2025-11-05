@@ -5,7 +5,6 @@ permalink: /research/
 
 ---
 ## **Publications**
-<br>
 **1. [Repeated Exposure and Protest Outcomes: How Fridays for Future Protests Influenced Voters](https://osf.io/preprints/socarxiv/m6dpg/)**  
  *American Journal of Political Science (Conditionally Accepted)*   <font size="-1">  <br>
    
