@@ -26,7 +26,7 @@ permalink: /research/
 *Draft available upon request*<font size="-1"> 
   <br>
   
-**2. [Voter Responses to Climate Adaptation in High-Risk Communities(https://osf.io/preprints/socarxiv/2g4x7_v2)** with [Christian Baehr](https://christianbaehr.com/) and [Hanno Hilbig](https://www.hannohilbig.com/).  
+**2. [Voter Responses to Climate Adaptation in High-Risk Communities](https://osf.io/preprints/socarxiv/2g4x7_v2)** with [Christian Baehr](https://christianbaehr.com/) and [Hanno Hilbig](https://www.hannohilbig.com/).  
 *Draft available upon request*<font size="-1"> 
   <br>
   
