@@ -30,7 +30,7 @@ permalink: /research/
 *Draft available upon request*<font size="-1"> 
   <br>
   
-**3. Climate Change and Political Entry: Evidence from Brazilian Municipal Elections** with [Guilherme Fasolin](https://as.vanderbilt.edu/political-science/bio/guilherme-fasolin/).  
+**3. [Climate Change and Political Entry: Evidence from Brazilian Municipal Elections](https://osf.io/preprints/socarxiv/fp93g_v1)** with [Guilherme Fasolin](https://as.vanderbilt.edu/political-science/bio/guilherme-fasolin/).  
 *Draft available upon request*<font size="-1"> 
   <br>
   
