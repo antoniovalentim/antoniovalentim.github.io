@@ -22,11 +22,11 @@ permalink: /research/
   
   
 ## **Working Papers and Work in Progress**
-**1. Are All Cyclists Green? The Link between Political and Non-Political Environmental Behaviour** with [Jae-Jae Spoon](https://www.jaejaespoon.com/).  
-*Draft available upon request*<font size="-1"> 
+**1. [Voter Responses to Climate Adaptation in High-Risk Communities](https://osf.io/preprints/socarxiv/2g4x7_v2)** with [Christian Baehr](https://christianbaehr.com/) and [Hanno Hilbig](https://www.hannohilbig.com/).  
+*R&R, Americal Political Science Journal*<font size="-1"> 
   <br>
   
-**2. [Voter Responses to Climate Adaptation in High-Risk Communities](https://osf.io/preprints/socarxiv/2g4x7_v2)** with [Christian Baehr](https://christianbaehr.com/) and [Hanno Hilbig](https://www.hannohilbig.com/).  
+**2. Are All Cyclists Green? The Link between Political and Non-Political Environmental Behaviour** with [Jae-Jae Spoon](https://www.jaejaespoon.com/).  
 *Draft available upon request*<font size="-1"> 
   <br>
   
