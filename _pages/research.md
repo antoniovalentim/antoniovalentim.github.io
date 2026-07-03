@@ -37,12 +37,9 @@ permalink: /research/
 **4. [Imperfect Information and Party Responsiveness: Evidence from Extreme Weather Events and the Green Party in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960045)**.
   <br>
   
-**5. [The political effects of female representation: Evidence from
-close races in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3992109)**.
+**5. Water Conflict, Environmental Mobilization, and Electoral Backlash in Spain** with [Magdalena Larreboure](https://mlarreboure.com/) and [Alba Huidobro](https://www.albahuidobro.com/).
   <br>
 
-**6. Minority policies and outgroup hostility: Evidence from face veil bans** with [Korinna Lindemann](https://korinnalindemann.github.io/).  
-*Draft available upon request*<font size="-1">  <br> 
 
   
   
