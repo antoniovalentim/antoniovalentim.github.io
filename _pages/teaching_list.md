@@ -10,7 +10,8 @@ redirect_from:
 
 {% include base_path %}
 * **LSE**
-  1. [Analytical Politics and Policymaking in Europe]((https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/EU/2020_EU489.htm)). Seminar Convener, 2025, 2024.
+  1. [Climate Politics in Europe](https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EU/2026_EU4B2.htm). Course Convener (2026-)
+  1. [Analytical Politics and Policymaking in Europe](https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EU/2026_EU489.htm). Seminar Convener (2026, 2025, 2024).
   2. [People and Politics in Europe](https://www.lse.ac.uk/resources/calendar2022-2023/courseGuides/EU/2022_EU4A5.htm). Course (2025) Seminar (2024) Convener.
   3. [Political Economy of the Green Transition in Europe](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/EU/2023_EU4A7.htm). Seminar Convener, 2024.
    <br>
